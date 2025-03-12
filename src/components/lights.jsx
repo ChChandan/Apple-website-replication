@@ -1,5 +1,6 @@
 import { Environment, Lightformer } from "@react-three/drei";
 
+
 const Lights = () => {
   return (
     // group different lights and lightformers. We can use group to organize lights, cameras, meshes, and other objects in the scene.
